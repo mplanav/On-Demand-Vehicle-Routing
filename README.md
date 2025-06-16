@@ -177,12 +177,6 @@ curl -X POST http://localhost:5000/reset
 
 ---
 
-## 📄 Licencia
-
-MIT - Puedes usar, modificar y distribuir este software libremente.
-
----
-
 ## ✨ Autor
 
 Desarrollado por Marc Plana.
