@@ -1,2 +1,6 @@
-Flask
-flask-cors
+fastapi
+uvicorn
+pydantic
+python-socketio
+asyncio
+

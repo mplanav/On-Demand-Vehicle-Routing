@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app /app
 
-CMD ["flask", "run", "--reload"]
+CMD ["uvicorn", "main:app", "--reload", "--host", "0.0.0.0", "--port", "5000"]
